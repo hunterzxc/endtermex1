@@ -1,0 +1,95 @@
+.main_body {
+    text-align: center;
+    height: 750px;
+    background: #d15c54;
+	font-family: Century Gothic;
+	color: #ffffff;
+}
+
+.home_body {
+    text-align: center;
+    background: #d15c54;
+    height: 100%;
+	font-family: Century Gothic;
+}
+
+.body_text {
+    font-family: Century Gothic;
+    font-size: 160%;
+}
+
+
+/* Navigation */
+.navigation {
+    border-radius: 1px;
+    border: 2px;
+    height: 5%;
+    width: auto;
+    padding: 20px;
+    overflow: hidden;
+    text-indent: 60px;
+    text-align: center;
+    overflow: hidden;
+    bottom: 20px;
+    right: 10px; 
+	font-family: Berlin Sans FB;
+	font-size: 25;
+	background-color: black;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    float: left;
+}
+
+a:visited {
+    color: #4af238	
+}
+
+a:hover {
+    color:red;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+.footer {
+    border: 1px;
+    height: 20px;
+    padding: 20px;
+    min-width: 1255px;
+    margin: auto;
+    background-color: black;
+	color: white;
+	font-family: Century Gothic;
+    
+}
+
+.content{
+    border-radius: 5px;
+    border: 2px solid;
+    padding: 20px; 
+    height: auto;
+    width: 25%;
+    display: inline-block;
+    margin: 80px;
+}
+td{
+color: white;
+}
+th{
+color: white;
+}
+tr{
+color: white;
+}
+.x{
+	color:white;
+}
